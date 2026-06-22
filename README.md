@@ -4,3 +4,6 @@ This system manages movement, sensors, and safety protocols for autonomous robot
 
 ## Installation
 Run `pip install -r requirements.txt` to install dependencies.
+
+## Configuration
+Configure the robot using the src/config.py file.
