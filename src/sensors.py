@@ -3,4 +3,5 @@ def read_sensor(sensor_id):
     return 0.0
 
 def calibrate():
+    """Calibrate the sensor readings."""
     pass
